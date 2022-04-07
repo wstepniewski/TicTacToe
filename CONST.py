@@ -1,0 +1,9 @@
+FRAME_RATE = 10
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+FS = 150  # field size
+GS = 10  # gap between fields
+US = 100  # upper space for text
+LS = 100  # lower space for button
+SCREEN_SIZE = (FS * 3 + GS * 2, FS * 3 + GS * 2 + US + LS)
